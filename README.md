@@ -1,8 +1,6 @@
 # repairKaliLinux-apt-speed
 ### This script will repair the source.list file to get better speed while installing packages with apt.
 
-[![Build Status](https://travis-ci.org)](https://travis-ci.org)
-
 1. Download the project :- 
 ```sh
 $ git clone https://github.com/deepak-pro/repairKaliLinux-apt-speed
