@@ -4,6 +4,7 @@
 1. Download the project :- 
 ```sh
 $ git clone https://github.com/deepak-pro/repairKaliLinux-apt-speed
+$ cd repairKaliLinux-apt-speed
 ```
 2.Give permissions to script :-
 ```sh
