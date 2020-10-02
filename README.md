@@ -8,7 +8,7 @@ $ cd repairKaliLinux-apt-speed
 ```
 2.Give permissions to script :-
 ```sh
-$ chmod +x repair.sh
+$ chmod 111 repair.sh
 ```
 3.Run the script :-
 ```sh
